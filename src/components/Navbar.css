@@ -23,6 +23,11 @@
   border: none;
 }
 
+#navbar input:focus {
+  outline: none;
+  border: 3px solid #f7d354;
+}
+
 #navbar form button {
   background-color: #f7d354;
   border: 2px solid #f7d354;
